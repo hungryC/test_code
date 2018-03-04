@@ -1,0 +1,1 @@
+lstLib.o: lstLib.c lstLib.h

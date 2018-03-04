@@ -1,0 +1,2 @@
+tg_shmr.o: tg_shmr.c /home/zyh/workstation/tgshm/include/tgshm.h \
+  tg_shmr.h
